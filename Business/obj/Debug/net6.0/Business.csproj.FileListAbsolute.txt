@@ -1,0 +1,17 @@
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/bin/Debug/net6.0/Business.deps.json
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/bin/Debug/net6.0/Business.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/bin/Debug/net6.0/Business.pdb
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/bin/Debug/net6.0/DataAccess.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/bin/Debug/net6.0/Entities.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/bin/Debug/net6.0/DataAccess.pdb
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/bin/Debug/net6.0/Entities.pdb
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.csproj.AssemblyReference.cache
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.AssemblyInfoInputs.cache
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.AssemblyInfo.cs
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.csproj.CoreCompileInputs.cache
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.csproj.CopyComplete
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/refint/Business.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/Business.pdb
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/Business/obj/Debug/net6.0/ref/Business.dll

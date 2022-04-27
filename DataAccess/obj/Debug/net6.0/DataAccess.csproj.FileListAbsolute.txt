@@ -1,0 +1,15 @@
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/bin/Debug/net6.0/Entities.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/bin/Debug/net6.0/Entities.pdb
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CopyComplete
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/refint/DataAccess.dll
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/DataAccess.pdb
+/Users/ahmedhajiyev/RiderProjects/MyFinalProject/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll
